@@ -1,0 +1,30 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    transition: 2s;
+}
+.content{
+    text-align: center;
+    margin: 400px auto;
+}
+p{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    font-weight: 900;
+}
+button{
+    border: none;
+    color: white;
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-size: 30px;
+    background-color: indigo;
+    cursor: pointer;
+    transition: 2s;
+    border-radius: 3px;
+}
+button:hover{
+    border-radius: 3px;
+}
